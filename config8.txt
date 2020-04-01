@@ -1,0 +1,3 @@
+n=8;angle=120;l=0.7;
+X:X-F+X+F-X;F:FF;
+X-F-F

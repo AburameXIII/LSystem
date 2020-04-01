@@ -1,0 +1,3 @@
+n=7;angle=20.0;l=1;
+F:FF;X:F[+X]F[-X]+X;
+X

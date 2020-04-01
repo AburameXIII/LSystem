@@ -1,0 +1,3 @@
+n=12;angle=90;l=1;w=2;
+X:X+YF+;Y:-FX-Y;
+FX
